@@ -1,0 +1,9 @@
+Let it Snow 1.1.0, 2013-12-22
+------------------------
+- Update snowstorm.js to 1.44
+- New options added: Freeze on blur, Flakes Max, Target Element, Position Fixed
+- PSR coding fixes
+
+Let it Snow 1.0.0, 2012-12-02
+------------------------
+- Initial release
